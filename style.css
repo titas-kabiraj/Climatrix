@@ -14,16 +14,16 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(bgimage.jpg);
+    background-image: url(bgano.webp);
     background-size: contain;
 }
 
 .container {
-    background-color: rgba(16, 151, 229, 0.5);;
+    background-color: rgba(16, 151, 229, 0.8);;
     padding: 20px;
     border-radius: 10px;
     width: 400px;
-    height: 300px;
+    height: 400px;
     box-shadow: 0 5px 15px rgba(0, 8, 5, 0.8
     );
     text-align: center;
@@ -71,7 +71,7 @@ button:hover {
 }
 
 #weather-info {
-    margin-top: 20px;
+    margin-top: 60px;
 }
 
 .hidden {
